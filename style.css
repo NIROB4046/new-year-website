@@ -94,3 +94,40 @@ text-align: center;
 .join2{
 color: rgb(255, 0, 0);
 }
+.soon1subtitle{
+font-weight: 500;
+font-size: 24px;
+text-align: center;
+color: rgb(255, 0, 0);
+
+}
+.soon1title{
+color: rgb(7, 2, 17);
+font-weight: 900;
+font-size: 48px;
+text-align: center;
+}
+.soon1para{
+color: rgba(7, 2, 17, 0.6);
+font-weight: 400;
+font-size: 20px;
+text-align: center;
+}
+.soon2img{
+box-sizing: border-box;
+border: 12px solid rgb(255, 0, 0);
+border-radius: 200px;
+}
+.soon3title{
+font-weight: 700;
+font-size: 48px;
+text-align: center;
+color: rgb(255, 0, 0);
+}
+.soon3img{
+
+}
+#soonfather{
+display: flex;
+justify-content: space-around;
+}
