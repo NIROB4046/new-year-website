@@ -1,3 +1,48 @@
-.p{
-background-color: aqua;
+/* section-02 id="head" */
+#head{
+background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url(images/Banner\ Image.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+padding-top: 280px;
+border-radius: 16px;
+}
+.headtitle{
+text-align: center;
+color: rgb(255, 255, 255);
+font-weight: 400;
+font-size: 32px;
+/* margin-top: 220px; */
+}
+.headdescription{
+text-align: center;
+color: rgb(255, 255, 255);
+font-weight: 900;
+font-size: 72px;
+/* margin-top: 220px; */
+
+}
+/* section-02 id="OFF"*/
+#OFF{
+text-align: center;
+}
+.off1{
+font-weight: 700;
+font-size: 88px;
+color: rgb(255, 0, 0);
+
+}
+.off2{
+font-weight: 500;
+font-size: 24px;
+color: rgb(255, 0, 0);
+margin-bottom: -30px;
+
+}
+.off3{
+font-weight: 700;
+font-size: 48px;
+color: rgb(7, 2, 17);
+
+
 }
