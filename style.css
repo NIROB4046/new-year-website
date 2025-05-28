@@ -258,3 +258,51 @@ border-radius: 0px 40px 40px 0px;
 background-color: black;
 color: aliceblue;
 }
+
+
+.last-father{
+background-color: rgb(7, 2, 17);
+height: 609px;
+}
+.location{
+display: flex;
+justify-content: space-between;
+}
+.lastpara1{
+color: rgb(255, 255, 255);
+font-weight: 500;
+font-size: 24px;
+margin-top: 80px;
+margin-left: 150px;
+}
+.lastpara2{
+color: rgb(255, 255, 255);
+font-weight: 500;
+font-size: 24px;
+margin-right: 150px;
+margin-top: 90px;
+
+}
+.lastimgdiv{
+margin-left: 520px;
+margin-top: 80px;
+margin-bottom: 80px;
+}
+.Unsubscribe-father{
+display: flex;
+justify-content: space-between;
+}
+.Unsubscribe-child1{
+color: rgb(255, 255, 255);
+font-weight:500 ;
+font-size: 24px;
+margin-left: 80px;
+margin-top: 50px;
+}
+.Unsubscribe-child2{
+color: rgb(255, 255, 255);
+font-weight:500 ;
+font-size: 24px;
+margin-right: 80px;
+margin-top: 50px;
+}
